@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is B663-9CC4
+
+ Directory of D:\My Project
+
+12/12/2018  10:33 AM    <DIR>          .
+12/12/2018  10:33 AM    <DIR>          ..
+12/12/2018  10:33 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  201,408,860,160 bytes free
